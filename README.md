@@ -13,7 +13,7 @@ Logistic Regression, Random Forest, Naïve Bayes, KNN, Python, Tableau
 Skills and Tools: 
 Linear Regression, Logistic Regression, Linear Discriminant Analysis, Python, Tableau
 
-**Unsupervised Machine Learning (Clustering) Techniques to analyze a Bank Data:** The concepts of clustering were used for market segmentation of a particular bank. This particular market segmentation exercise is for understanding the customer a little better for giving promotional offers to its customers.
+[**Unsupervised Machine Learning (Clustering) Techniques to analyze a Bank Data:**](https://github.com/Abhishek9592/Portfolio/blob/ee279fc99e54d7ca82dfbd5303254419bb9b6856/bank_marketing.ipynb) The concepts of clustering were used for market segmentation of a particular bank. This particular market segmentation exercise is for understanding the customer a little better for giving promotional offers to its customers.
 
 Skills and Tools: 
 Hierarchical Clustering, K-Means Clustering, Unsupervised Machine Learning Techniques, Python
