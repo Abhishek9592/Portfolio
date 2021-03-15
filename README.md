@@ -3,7 +3,7 @@ Data Science Portfolio
 
 **Projects:**
 
-**Customer Churn in E-Commerce:** Used ML Techniques on python to predict customer churn in order to implement methods to effectively bring down the churn rate, treating missing values followed by training the model on a sufficiently large amount of observations.
+[**Customer Churn in E-Commerce:**](https://github.com/Abhishek9592/Portfolio/blob/630bb43343d1bf6a5da3b3481b7981c97e7d708d/E_Commerce.ipynb) Used ML Techniques on python to predict customer churn in order to implement methods to effectively bring down the churn rate, treating missing values followed by training the model on a sufficiently large amount of observations.
 
 Skills and Tools: 
 Logistic Regression, Random Forest, Naïve Bayes, KNN, Python, Tableau
